@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # yii console command
 /yii
 
@@ -28,3 +29,6 @@ composer.phar
 phpunit.phar
 # local phpunit config
 /phpunit.xml
+=======
+*.agdai
+>>>>>>> a2057ffc67ef2d37e015703c471c1f25793e864e
